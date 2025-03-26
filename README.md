@@ -20,7 +20,7 @@ This Tableau project analyzes healthcare data to gain insights into patient heal
 - Data Cleaning & Preprocessing
 
 ## 📂 How to Use
-1. Open the Tableau file.
+1. Open the dashboard file.
 2. Navigate through the different views and dashboards to explore insights.
 3. Use filters and interactions to customize the analysis.
 
